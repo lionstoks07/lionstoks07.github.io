@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {background-color: gray;}
+
+h1{display: flex; justify-content: center;
+	
+}
+
+#me{float: right;
+	
+}
+
+#email{color: blue;
+	
+}
+
+#github{color: blue;
+	
+}
+
+label{color: red;}

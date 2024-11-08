@@ -1,0 +1,108 @@
+@charset "utf-8";
+/* CSS Document */
+
+#history {font-family: Honk;
+	color: orange;
+	position: relative;
+	left: 400px;
+	font-size: 100px;
+}
+
+h2 {font-family: Honk; color:blue;}
+
+#back_button {float: right;}
+
+
+#2016_char_table {align-content: center;}
+
+
+#units_by_year{text-align: center;
+}
+
+table, tr, td{border: 5px solid black;}
+
+div{clear: right;
+	margin: 10px;}
+
+td {padding: 5px;}
+
+#logos{
+	float:right;
+}
+
+#main-logo{
+	border:2px solid black;
+	margin: 10px auto;
+	display: inline-block;
+}
+
+#left-logo {
+	display:inline-block;
+	vertical-align:top;
+}
+
+
+#main-links{display: flex; justify-content: center;
+	
+}
+
+
+#search-form {
+    display: flex; 
+    align-items: center;
+}
+
+#search-input {
+    padding: 5px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 200px; 
+}
+
+#search_button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    margin-left: 5px; 
+}
+
+#search-button img {
+    width: 30px;
+}
+
+#jp-history { display: flex; justify-content: center;
+	
+}
+
+
+
+/*
+
+
+#global-history { text-decoration-color: rebeccapurple;  
+	
+}
+
+#events { position: absolute; right 30px;
+	
+}
+
+#uby {position: absolute; right: 50px;}
+
+#all-units {position: absolute; right 47px;}
+*/
+
+body{background-color: grey;}
+
+
+
+
+/*ul {list-style-type: none}*/
+
+
+#glass-button{border: #F6EDED}
+
+
+
+
